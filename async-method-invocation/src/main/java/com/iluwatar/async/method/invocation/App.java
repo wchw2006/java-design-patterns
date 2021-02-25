@@ -3,8 +3,8 @@ package com.iluwatar.async.method.invocation;
 import java.util.concurrent.Callable;
 
 /**
- * This application demonstrates the async method invocation pattern. Key parts of the pattern are
- * <code>AsyncResult</code> which is an intermediate container for an asynchronously evaluated
+ * This application demonstrates(提供) the async method invocation pattern. Key parts of the pattern are
+ * <code>AsyncResult</code> which is an intermediate(中间) container for an asynchronously evaluated(评估)
  * value, <code>AsyncCallback</code> which can be provided to be executed on task completion and
  * <code>AsyncExecutor</code> that manages the execution of the async tasks.
  * <p>
